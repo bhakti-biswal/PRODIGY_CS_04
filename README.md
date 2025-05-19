@@ -63,5 +63,5 @@ Logs are saved in the same directory as key_log.txt.
 🧠 Designed for red team testing, ethical hacking education, and cybersecurity research.
 
 ## 📄 License
-This project is released under the MIT License.
+This project is released under the GNU GENERAL PUBLIC LICENSE Version 3.
 
